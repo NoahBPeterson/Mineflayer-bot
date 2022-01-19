@@ -1,0 +1,28 @@
+{
+  "name": "mineflayer-bot",
+  "version": "0.0.1",
+  "description": "A mineflayer bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahBPeterson/Mineflayer-bot.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "mineflayer",
+    "bot"
+  ],
+  "author": "Noah Peterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahBPeterson/Mineflayer-bot/issues"
+  },
+  "homepage": "https://github.com/NoahBPeterson/Mineflayer-bot#readme",
+  "dependencies": {
+    "mineflayer": "^3.14.1"
+  }
+}
